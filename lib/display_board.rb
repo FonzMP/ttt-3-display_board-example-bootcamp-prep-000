@@ -2,3 +2,5 @@
 def display_board
   put "-----------"
 end
+
+display_board
